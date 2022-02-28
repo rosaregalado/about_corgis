@@ -1,0 +1,12 @@
+.Title {
+  color: rgb(28, 98, 209);
+  text-align: center;
+}
+.Personality {
+  text-align: left;
+  margin: 2em;
+  font-family: Century Gothic, sans-serif;
+}
+p {
+  padding: .5em;
+}

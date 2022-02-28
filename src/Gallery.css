@@ -1,0 +1,22 @@
+.Gallery {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.Gallery-grid {
+  /* max-width: 100%; */
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  /* column-gap: 10px;
+  row-gap: 15px; */
+  margin: 10px;
+}
+.Gallery-grid img {
+  width: 60%;
+  height: 60%;
+}
+.Gallery-title {
+  color: rgb(28, 98, 209);
+}
