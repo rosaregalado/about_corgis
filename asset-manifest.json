@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rosaregalado/about_corgis/static/css/main.d8efd3d8.css",
-    "main.js": "/rosaregalado/about_corgis/static/js/main.9ad851f3.js",
-    "static/js/787.dffec74c.chunk.js": "/rosaregalado/about_corgis/static/js/787.dffec74c.chunk.js",
-    "index.html": "/rosaregalado/about_corgis/index.html",
-    "main.d8efd3d8.css.map": "/rosaregalado/about_corgis/static/css/main.d8efd3d8.css.map",
-    "main.9ad851f3.js.map": "/rosaregalado/about_corgis/static/js/main.9ad851f3.js.map",
-    "787.dffec74c.chunk.js.map": "/rosaregalado/about_corgis/static/js/787.dffec74c.chunk.js.map"
+    "main.css": "/about_corgis/static/css/main.d8efd3d8.css",
+    "main.js": "/about_corgis/static/js/main.66ae5151.js",
+    "static/js/787.dffec74c.chunk.js": "/about_corgis/static/js/787.dffec74c.chunk.js",
+    "index.html": "/about_corgis/index.html",
+    "main.d8efd3d8.css.map": "/about_corgis/static/css/main.d8efd3d8.css.map",
+    "main.66ae5151.js.map": "/about_corgis/static/js/main.66ae5151.js.map",
+    "787.dffec74c.chunk.js.map": "/about_corgis/static/js/787.dffec74c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d8efd3d8.css",
-    "static/js/main.9ad851f3.js"
+    "static/js/main.66ae5151.js"
   ]
 }
