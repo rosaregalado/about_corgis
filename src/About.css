@@ -4,6 +4,7 @@
   padding: 15px;
   display: flex;
   flex-direction: row;
+  font-size: 24px;
 }
 .About-text {
   margin: 10px;
@@ -11,5 +12,7 @@
 }
 h1 {
   color: rgb(28, 98, 209);
-  
+}
+img {
+  width: 15em;
 }

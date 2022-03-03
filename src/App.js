@@ -1,6 +1,7 @@
 import './App.css';
 import Navbar from './Navbar';
 import About from './About';
+import History from './History';
 import Personality from './Personality';
 import Gallery from './Gallery';
 import Footer from './Footer';
@@ -10,8 +11,10 @@ function App() {
     <div className="App">
       <Navbar />
       <About />
-      <Personality />
-      <Gallery />
+      <div><History /></div>
+      <div><Personality /></div>
+      <div><Gallery /></div>
+      
       <Footer />
     </div>
   );
